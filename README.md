@@ -54,6 +54,7 @@ Une page de Documentation donne le contexte, dans lequel ce dashboard a été d�
 <img width="532" alt="Documentation" src="https://github.com/user-attachments/assets/3f4fca34-cbf4-4c0f-991e-959e790bb4dc" />
 
 Différents onglets permettent de structurer la répartition des graphes et des visuels, dans le dashboard, pour rationnaliser les aspects des analyses.
+
 <img width="536" alt="Structure1" src="https://github.com/user-attachments/assets/00d47221-a8e0-431d-a3f7-ea11603b21ad" />
 <img width="539" alt="Structure2" src="https://github.com/user-attachments/assets/b4342613-fa55-4b32-aa17-323466a0b5df" />
 <img width="539" alt="Structure3" src="https://github.com/user-attachments/assets/b3f19a9a-be10-4fe8-ac61-43058a8c0cbc" />
